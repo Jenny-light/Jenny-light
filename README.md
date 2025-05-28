@@ -1,4 +1,7 @@
 ## Hi there 👋
+## My  name is Jennifer
+## Am an entry level data analyst
+## I love solving problems
 
 <!--
 **Jenny-light/Jenny-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
