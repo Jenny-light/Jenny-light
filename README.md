@@ -1,7 +1,12 @@
 ## Hi there 👋
-## My  name is Jennifer 
-## Am an entry level data analyst
-## I love solving problems
+ I'm Jennifer Omoregie
+ A passionate learner transitioning into tech.
+Background in Data Analysis | Currently learning Software Development
+I enjoy working on projects that involve data visualization, problem-solving, and building simple tools.
+ Currently exploring Python, SQL, Git, and web technologies
+Always learning, always building.
+
+Let's connect and grow together! 🚀
 
 <!--
 **Jenny-light/Jenny-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
