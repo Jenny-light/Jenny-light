@@ -1,7 +1,7 @@
 ## Hi there 👋
  I'm Jennifer Omoregie
  A passionate learner transitioning into tech.
-Background in Data Analysis | Currently learning Software Development
+Background in Data Analysis | Currently learning Software Development.
 I enjoy working on projects that involve data visualization, problem-solving, and building simple tools.
  Currently exploring Python, SQL, Git, and web technologies
 Always learning, always building.
